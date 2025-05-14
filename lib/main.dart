@@ -16,6 +16,7 @@ class MyApp extends StatelessWidget {
         primaryColor: Colors.lightBlue,
         appBarTheme: AppBarTheme(color: Colors.lightBlue),
       ),
+      //Pantalla inicial de la app
       home: PriceScreen(),
     );
   }
