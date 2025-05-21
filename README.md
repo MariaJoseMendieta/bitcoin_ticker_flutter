@@ -9,6 +9,13 @@ Coin Ticker es una aplicación móvil desarrollada con Flutter que permite consu
 Esta app tiene como objetivo proporcionar una forma simple e intuitiva de visualizar el valor actual de Bitcoin en más de 20 monedas distintas, a través de una interfaz moderna que se adapta tanto a **iOS como Android**. 
 
 ---
+## 👁 Vista App
+<p align="center">
+  <img src="img1.png" width="200"/>
+  <img src="img2.png" width="200"/>
+</p>
+
+---
 
 ## ✨ Funcionalidades principales
 
